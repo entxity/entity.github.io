@@ -9,7 +9,7 @@ Follow me on Twitter <a href="https://twitter.com/?" target="_blank">here!</a>
 
 # Youtube
 
-Subscribe to me on Youtube <a href="(https://www.youtube.com/channel/UCnS85nKZ4sE_hSYuIN8YG2w)" target="_blank">here!</a>
+Subscribe to me on Youtube <a href="https://www.youtube.com/channel/UCnS85nKZ4sE_hSYuIN8YG2w" target="_blank">here!</a>
 
 # Twitch
 
